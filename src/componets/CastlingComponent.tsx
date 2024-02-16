@@ -3,7 +3,7 @@ import { Cell } from "../models/Cell/Cell";
 import { PiecesUtils } from "../models/Utils/PiecesUtils";
 import { ICastlingUtils } from "./types";
 //@ts-ignore
-import castlingIcon from "./../assets/images/castling.svg";
+import castlingIcon from "./../assets/images/castling.webp";
 
 import useBoardStore from "../store/board";
 import usePlayerStore from "../store/player";
@@ -49,9 +49,12 @@ const CastlingComponent: FC = () => {
   return (
     <div className="castling">
       {castlingBtn && (
-        <button title="Castling" onClick={() => checkCastling()}>
-          <img src={castlingIcon} alt="Castling" />
-        </button>
+        <>
+          <span>Castling</span>
+          <button title="Castling" onClick={() => checkCastling()}>
+            <img src={castlingIcon} alt="Castling" />
+          </button>
+        </>
       )}
       {longCastling && leftRook && (
         <button

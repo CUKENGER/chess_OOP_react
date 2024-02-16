@@ -6,7 +6,6 @@ import Helpers from "./Helpers";
 import CastlingComponent from "../CastlingComponent";
 import { Color } from "../../models/Piece/types";
 import TakenPieces from "./TakenPieces";
-import FenForm from "./FenForm";
 
 const GameInformation: FC = () => {
   const { restart } = useMainStore();
@@ -14,7 +13,6 @@ const GameInformation: FC = () => {
   return (
     <>
       <div className="game-controls">
-        <FenForm />
         <Helpers />
         <button onClick={() => restart()}>Restart</button>
         <CastlingComponent />

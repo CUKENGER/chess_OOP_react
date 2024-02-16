@@ -8,7 +8,7 @@ button {
     cursor: pointer;
     padding: 5px;
     color: white;
-    background-color: #363636;
+    background-color: brown;
     border: none;
     border-radius: 3px;
 }
@@ -21,9 +21,13 @@ input:focus {
 }
 
 .App {
-    background: radial-gradient(circle at 10% 20%, rgb(110, 206, 156) 0%, rgb(77, 120, 135) 100.2%);
+    /* background: radial-gradient(circle at 10% 20%, rgb(213 201 111) 0%, rgb(137 81 25) 100.2%); */
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
+}
+
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
