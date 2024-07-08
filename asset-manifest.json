@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/CUKENGER/chess_OOP_react/static/css/main.179efd70.css",
-    "main.js": "/CUKENGER/chess_OOP_react/static/js/main.226eb455.js",
-    "static/media/bg.jpg": "/CUKENGER/chess_OOP_react/static/media/bg.56f4368a6becf2f64703.jpg",
-    "static/media/castling.webp": "/CUKENGER/chess_OOP_react/static/media/castling.cb56df8d696a4fb7595e.webp",
-    "index.html": "/CUKENGER/chess_OOP_react/index.html",
-    "main.179efd70.css.map": "/CUKENGER/chess_OOP_react/static/css/main.179efd70.css.map",
-    "main.226eb455.js.map": "/CUKENGER/chess_OOP_react/static/js/main.226eb455.js.map"
+    "main.css": "/chess_OOP_react/static/css/main.2f8ca116.css",
+    "main.js": "/chess_OOP_react/static/js/main.d4bb4c01.js",
+    "static/media/bg.jpg": "/chess_OOP_react/static/media/bg.56f4368a6becf2f64703.jpg",
+    "static/media/castling.webp": "/chess_OOP_react/static/media/castling.cb56df8d696a4fb7595e.webp",
+    "index.html": "/chess_OOP_react/index.html",
+    "main.2f8ca116.css.map": "/chess_OOP_react/static/css/main.2f8ca116.css.map",
+    "main.d4bb4c01.js.map": "/chess_OOP_react/static/js/main.d4bb4c01.js.map"
   },
   "entrypoints": [
-    "static/css/main.179efd70.css",
-    "static/js/main.226eb455.js"
+    "static/css/main.2f8ca116.css",
+    "static/js/main.d4bb4c01.js"
   ]
 }
