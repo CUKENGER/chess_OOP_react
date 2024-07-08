@@ -16,3 +16,5 @@
 - Архитектура модели на основе классов для управления состоянием и логикой игры.
 
 ![Вид проекта](https://github.com/CUKENGER/chess_OOP_react/pl.png)
+
+![Image alt](https://github.com/CUKENGER/chess_OOP_react/main/image.png)
