@@ -17,4 +17,4 @@
 
 ![Вид проекта](https://github.com/CUKENGER/chess_OOP_react/pl.png)
 
-![Image alt](https://github.com/CUKENGER/chess_OOP_react/main/image.png)
+![Image alt](https://github.com/CUKENGER/chess_OOP_react/main/pl.png)
